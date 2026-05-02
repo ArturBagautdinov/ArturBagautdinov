@@ -8,7 +8,7 @@ I love turning ideas into smooth mobile experiences using Apple technologies.
 ## 🛠 Tech Stack
 
 **Mobile Development**  
-Swift • SwiftUI • MVVM • SwiftData  
+Swift • UIKit • SwiftUI • MVVM • SwiftData  
 Building native iOS applications with a focus on clean architecture, reusable UI components, and maintainable code.
 
 **Backend & Networking**  
